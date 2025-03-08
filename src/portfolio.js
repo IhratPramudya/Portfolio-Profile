@@ -264,12 +264,12 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      title: "Front End Development Expert",
+      subtitle: "Dicoding Academy",
+      logo_path: "dicoding_logo.jpg",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
+      alt_name: "Dicoding Indonesia",
       color_code: "#8C151599",
     },
     {

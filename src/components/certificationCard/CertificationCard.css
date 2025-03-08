@@ -4,8 +4,8 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  border: 1px solid #d9dbdf;
-  border-radius: 5px;
+  border: 10px solid #aeb1b8;
+  border-radius: 15px;
   box-shadow: 5px 5px 5px #d9dbdf;
   margin-bottom: 30px;
   flex: 0 0 30%;
@@ -13,7 +13,7 @@
 
 .cert-header {
   margin: 0px;
-  border-radius: 5px 5px 0px 0px;
+  border-radius: 5px 100px 0px 0px;
 }
 
 .logo_img {
@@ -47,7 +47,7 @@
 }
 
 .content .content-overlay {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(6, 6, 6, 0.7);
   position: absolute;
   height: 99%;
   width: 100%;
@@ -58,7 +58,7 @@
   opacity: 0;
   -webkit-transition: all 0.4s ease-in-out 0s;
   -moz-transition: all 0.4s ease-in-out 0s;
-  transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-ou 100s;
 }
 
 .content:hover .content-overlay {
