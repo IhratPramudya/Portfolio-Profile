@@ -1,3 +1,16 @@
+/* Animasi */
+.hide {
+  opacity: 0;
+  transform: translateY(-20px);
+  visibility: hidden;
+}
+
+.show {
+  opacity: 1;
+  transform: translateY(0);
+  visibility: visible;
+}
+
 /* header */
 
 .header {
@@ -39,7 +52,7 @@
   line-height: normal;
 }
 .header .logo-name {
-  font-family: "Agustina Regular";
+  font-family: "Poppins";
   font-weight: bold;
   padding: 0 10px;
   /* color: #55198b; */
