@@ -81,7 +81,7 @@ export default function Greeting(props) {
           </div>
           <div className="greeting-image-div">
             <img
-              style={{ height: "920px", borderRadius: "10px" }}
+              style={{ borderRadius: "10px" }}
               alt="saad sitting on table"
               src={require("../../assets/images/Foto Ihrat.jpg")}
             ></img>
