@@ -32,7 +32,7 @@ const greeting = {
 
 const vision = {
   text:
-    "Menjadi web developer yang inovatif dan berorientasi pada solusi, menciptakan aplikasi web yang efisien, responsif, dan berdampak luas. Berkomitmen untuk terus belajar, menguasai teknologi terbaru, serta mengembangkan solusi digital yang tidak hanya fungsional, tetapi juga memberikan pengalaman terbaik bagi pengguna.",
+    "Menjadi web developer yang inovatif dan berorientasi pada solusi, menciptakan aplikasi web yang efisien, responsif, dan berdampak luas.",
 };
 
 const socialMediaLinks = [
