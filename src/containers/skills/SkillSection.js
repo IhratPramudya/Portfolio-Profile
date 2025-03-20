@@ -4,6 +4,7 @@ import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
 import { skills } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FullStackImg from "./FullStackImg";
+// import svgImageMore from "../../imageSVG";
 
 function GetSkillSvg(props) {
   if (props.fileName === "FullStackImg")
@@ -25,6 +26,7 @@ class SkillSection extends Component {
                     src={require(`../../assets/images/${skill.imagePath}`)}
                   ></img> */}
                   <GetSkillSvg fileName={skill.fileName} theme={theme} />
+                  {/* <div className="flex flex-wrap justify-center gap-4 p-">{svgImageMore.map((svg, index) => svg)}</div> */}
                 </div>
               </Fade>
 
