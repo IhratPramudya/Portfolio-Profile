@@ -25,9 +25,9 @@ const greeting = {
   subTitle:
     "Saya memiliki Passion yang sangat kuat dalam bidang Software Engineer",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://drive.google.com/file/d/1xpjt4KBZMWaoySYBZJKos-KH-1VUJ_sm/view?usp=sharing",
+  portfolio_repository: "https://github.com/IhratPramudya",
+  githubProfile: "https://github.com/IhratPramudya",
 };
 
 const vision = {
@@ -378,27 +378,27 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "Ihrat.jpg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you build app React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    subtitle: " Depok, Jawa Barat, Indonesia",
+    locality: "Depok",
+    country: "Indonesia",
+    region: "Jawa Barat",
+    postalCode: "0",
+    streetAddress: "Pondok Cina",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/ZiPRT8XGQzLhj1Ah8",
   },
   phoneSection: {
     title: "",

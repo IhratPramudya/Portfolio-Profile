@@ -4,11 +4,13 @@ import Greeting from "../../containers/greeting/Greeting";
 import Skills from "../../containers/skills/Skills";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
+import CategoriesToggle from "../../containers/listComponents/list";
 
 class Home extends Component {
   render() {
     return (
       <div>
+        <CategoriesToggle />
         <Header theme={this.props.theme} />
         <Greeting theme={this.props.theme} />
         <Skills theme={this.props.theme} />
